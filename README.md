@@ -14,15 +14,15 @@
 
 Задания нужно сдавать в anytask (ссылка появится позже).
 
-* [Практическое задание 1](). Мягкий дедлайн: 30 января, 23:59. Жесткий дедлайн: 3 февраля, 23:59.
+* [Практическое задание 1](https://github.com/nadiinchi/iad2019/blob/master/materials/hw_sem1.ipynb). Мягкий дедлайн: 30 января, 23:59. Жесткий дедлайн: 3 февраля, 23:59.
 
 ## Проверочные
 Раз в несколько семинаров проводится проверочная на знание материала лекций (и иногда семинаров).
 
 ## Материалы семинаров:
 *Семинар 1.* Введение в машинное обучение. Numpy.
-* [Ноутбук с семинара](https://github.com/iad-24/seminars/blob/master/materials/sem1.ipynb)
-* [Ноутбук-туториал по numpy (автор: Анастасия Рысьмятова)](https://github.com/iad-24/seminars/blob/master/materials/ipython_notebook_numpy.ipynb)
+* [Ноутбук с семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/sem1.ipynb)
+* [Ноутбук-туториал по numpy](https://github.com/iad-24/seminars/blob/master/materials/ipython_notebook_numpy.ipynb)
 * [Англоязычный подробный туториал по numpy](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb)
 
 *Семинар 2.* Pandas и Matplotlib.
