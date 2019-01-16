@@ -26,7 +26,7 @@
 ## Материалы семинаров:
 *Семинар 1.* Введение в машинное обучение. Numpy.
 * [Ноутбук с семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/sem1.ipynb)
-* [Ноутбук-туториал по numpy](https://github.com/iad-24/seminars/blob/master/materials/ipython_notebook_numpy.ipynb)
+* [Ноутбук-туториал по numpy](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Sem2_NumPy.ipynb)
 * [Англоязычный подробный туториал по numpy](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb)
 
 *Семинар 2.* Pandas и Matplotlib.
