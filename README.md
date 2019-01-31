@@ -37,6 +37,10 @@
 * [Подробный ноутбук-туториал про pandas](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar3_pandas.ipynb)
 * [Официальная документация pandas - подробнейшие туториалы на английском](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
+*Семинар 3. Sklearn и классы в python*
+* [Ноутбук с семинара с комментариями](https://github.com/nadiinchi/iad2019/blob/master/materials/Seminar_sklearn.ipynb)
+* [Документация sklearn](http://scikit-learn.org/stable/index.html)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
