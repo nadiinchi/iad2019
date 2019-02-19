@@ -43,7 +43,7 @@
 * [Документация sklearn](http://scikit-learn.org/stable/index.html)
 
 *Семинар 4.* kNN
-
+* [Конспект семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/seminar_4_knn.pdf)
 *Семинар 5.* Градиентный спуск. Линейная регрессия (теория)
 * [Конспект с подсчетом градиентов и выводом аналитической формулы весов](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem03-linregr.pdf)
 
