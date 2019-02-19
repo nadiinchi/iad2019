@@ -42,6 +42,15 @@
 * [Ноутбук с семинара с комментариями](https://github.com/nadiinchi/iad2019/blob/master/materials/Seminar_sklearn.ipynb)
 * [Документация sklearn](http://scikit-learn.org/stable/index.html)
 
+*Семинар 4.* kNN
+
+*Семинар 5.* Градиентный спуск. Линейная регрессия (теория)
+* [Конспект с подсчетом градиентов и выводом аналитической формулы весов](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem03-linregr.pdf)
+
+*Семинар 6.* Градиентный спуск. Линейная регрессия (практика)
+* [Задание га градиентный спуск и трехмерную геометрию](https://github.com/iad-24/seminars/blob/master/materials/Seminar5_3d_task.ipynb)
+* [Задание на линейную регрессию](https://github.com/nadiinchi/iad2019/blob/master/materials/Seminar_linreg_practice.ipynb)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
