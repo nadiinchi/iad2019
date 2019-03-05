@@ -53,9 +53,9 @@
 * [Задание на линейную регрессию](https://github.com/nadiinchi/iad2019/blob/master/materials/Seminar_linreg_practice.ipynb)
 * [Решение задания про градиентный спуск и трехмерную геометрию](https://github.com/iad-24/seminars/blob/master/materials/Seminar5_3d_solution.ipynb)
 
-*Cеминар 7. Линейная классификация. Регуляризация (теория)
+*Cеминар 7.* Линейная классификация. Регуляризация (теория)
 
-* [Конспект семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/sem_8.pdf)
+* [Конспект семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/sem_7.pdf)
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
