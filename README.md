@@ -57,6 +57,10 @@
 
 * [Конспект семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/sem_7.pdf)
 
+*Семинар 8.* Логистистическая регрессия. Категориальные признаки (теория)
+
+* [Конспект семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/sem_8.pdf)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
