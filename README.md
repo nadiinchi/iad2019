@@ -62,6 +62,9 @@
 
 * [Конспект семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/sem_8.pdf)
 
+*Семинар 9.* Метрики качества бинарной классификации
+* [Конспект про ROC-кривую](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem05-linclass-metrics.pdf) (страницы 1, 2 - алгоритм и 4 - пример)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
