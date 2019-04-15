@@ -66,9 +66,13 @@
 * [Конспект про ROC-кривую](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem05-linclass-metrics.pdf) (страницы 1, 2 - алгоритм и 4 - пример)
 
 *Семинар 10.* Решающие деревья
+См. задачи и демонстрации в лекции :) Они там по сути все есть
 
 *Семинары 11-12.* Композиции алгоритмов
 * [Задание для семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/sem10_task_ensembles.ipynb)
+* [Теория про бустинг](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture09-ensembles.pdf) (разделы 1-4)
+* [Задачи про бустинг](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem09-gbm-part1.pdf) (pзадачи 1.1, 1.2)
+* [Про стекинг и блендинг](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem10-features.pdf) (раздел 3)
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
