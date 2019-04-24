@@ -21,6 +21,7 @@
 * [Практическое задание 1](https://github.com/nadiinchi/iad2019/blob/master/materials/hw_sem1.ipynb). Мягкий дедлайн: 30 января, 23:59. Жесткий дедлайн: 3 февраля, 23:59.
 * [Практическое задание 2](https://github.com/nadiinchi/iad2019/blob/master/materials/Homework2.ipynb). Мягкий дедлайн: 15 февраля, 23:59. Жесткий дедлайн: 20 февраля, 23:59.
 * [Практическое задание 3](https://github.com/nadiinchi/iad2019/blob/master/materials/homework3.ipynb). Мягкий дедлайн: 5 апреля, 23:59. Жесткий дедлайн: 9 апреля, 23:59.
+* [Практическое задание 4](https://github.com/nadiinchi/iad2019/blob/master/materials/homework4_compositions.ipynb). Мягкий дедлайн: 15 мая, 23:59. Жесткий дедлайн: 19 мая, 23:59. 
 
 ## Проверочные
 Раз в несколько семинаров проводится проверочная на знание материала лекций (и иногда семинаров).
@@ -74,6 +75,13 @@
 * [Теория про бустинг](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture09-ensembles.pdf) (разделы 1-4)
 * [Задачи про бустинг](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem09-gbm-part1.pdf) (задачи 1.1, 1.2)
 * [Про стекинг и блендинг](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem10-features.pdf) (раздел 3)
+
+* Семинар 13. * Консультация перед контрольной работой
+
+*Семинары 11-12.* Преобразования признакового пространства: метод главных компонент и feature engeneering.
+* [Презентация по feature engeneering](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/presentation_vis_features.pdf)
+* [Конспект по feature engeneering](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem10-features.pdf) (раздел 1)
+* [Конспект по PCA с выводом решения (опциональный материал для интересующихся)](https://github.com/esokolov/ml-course-msu/blob/master/ML15-spring/lecture-notes/Sem06_pca.pdf)
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
