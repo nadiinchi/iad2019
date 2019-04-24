@@ -81,6 +81,7 @@
 *Семинары 11-12.* Преобразования признакового пространства: метод главных компонент и feature engeneering.
 * [Презентация по feature engeneering](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/presentation_vis_features.pdf)
 * [Конспект по feature engeneering](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem10-features.pdf) (раздел 1)
+* [Рукописный конспект по PCA](https://github.com/nadiinchi/iad2019/blob/master/materials/pca.jpeg)
 * [Конспект по PCA с выводом решения (опциональный материал для интересующихся)](https://github.com/esokolov/ml-course-msu/blob/master/ML15-spring/lecture-notes/Sem06_pca.pdf)
 
 ## Полезные ссылки
