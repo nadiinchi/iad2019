@@ -76,9 +76,9 @@
 * [Задачи про бустинг](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem09-gbm-part1.pdf) (задачи 1.1, 1.2)
 * [Про стекинг и блендинг](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem10-features.pdf) (раздел 3)
 
-* Семинар 13. * Консультация перед контрольной работой
+*Семинар 13.* Консультация перед контрольной работой
 
-*Семинары 11-12.* Преобразования признакового пространства: метод главных компонент и feature engeneering.
+*Семинар 14.* Преобразования признакового пространства: метод главных компонент и feature engeneering.
 * [Презентация по feature engeneering](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/presentation_vis_features.pdf)
 * [Конспект по feature engeneering](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem10-features.pdf) (раздел 1)
 * [Рукописный конспект по PCA](https://github.com/nadiinchi/iad2019/blob/master/materials/pca.jpeg)
