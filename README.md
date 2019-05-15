@@ -84,6 +84,9 @@
 * [Рукописный конспект по PCA](https://github.com/nadiinchi/iad2019/blob/master/materials/pca.jpeg)
 * [Конспект по PCA с выводом решения (опциональный материал для интересующихся)](https://github.com/esokolov/ml-course-msu/blob/master/ML15-spring/lecture-notes/Sem06_pca.pdf)
 
+*Семинар 15.* Кластеризация.
+* [Ноутбук с семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/Starter_clustering.ipynb)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
@@ -93,8 +96,5 @@
 * [Вводный курс К. В. Воронцова на coursera.org](https://www.coursera.org/learn/introduction-machine-learning)
 * [https://www.dataquest.io](https://www.dataquest.io): сайт с интерактивными заданиями по Python для анализа данных
 * [Pattern Recognition and Machine Learning by C. Bishop](http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
-
-*Семинар 15.* Кластеризация.
-* [Ноутбук с семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/Starter_clustering.ipynb)
 
 За прохождение курсов на coursera.org не обязательно платить: можно попросить материальную помощь.
