@@ -21,7 +21,7 @@
 * [Практическое задание 1](https://github.com/nadiinchi/iad2019/blob/master/materials/hw_sem1.ipynb). Мягкий дедлайн: 30 января, 23:59. Жесткий дедлайн: 3 февраля, 23:59.
 * [Практическое задание 2](https://github.com/nadiinchi/iad2019/blob/master/materials/Homework2.ipynb). Мягкий дедлайн: 15 февраля, 23:59. Жесткий дедлайн: 20 февраля, 23:59.
 * [Практическое задание 3](https://github.com/nadiinchi/iad2019/blob/master/materials/homework3.ipynb). Мягкий дедлайн: 5 апреля, 23:59. Жесткий дедлайн: 9 апреля, 23:59.
-* [Практическое задание 4](https://github.com/nadiinchi/iad2019/blob/master/materials/homework4_compositions.ipynb). Мягкий дедлайн: 15 мая, 23:59. Жесткий дедлайн: 19 мая, 23:59. 
+* [Практическое задание 4](https://github.com/nadiinchi/iad2019/blob/master/materials/homework4_compositions.ipynb). Мягкий дедлайн: 18 мая, 23:59. Жесткий дедлайн: 20 мая, 23:59. 
 
 ## Проверочные
 Раз в несколько семинаров проводится проверочная на знание материала лекций (и иногда семинаров).
