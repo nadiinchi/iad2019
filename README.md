@@ -87,6 +87,9 @@
 *Семинар 15.* Кластеризация.
 * [Ноутбук с семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/Starter_clustering.ipynb)
 
+*Семинар 16.* Работа с текстами.
+* [Ноутбук с семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/seminar%20kaggle%20toxic.ipynb)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
@@ -98,3 +101,4 @@
 * [Pattern Recognition and Machine Learning by C. Bishop](http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
 
 За прохождение курсов на coursera.org не обязательно платить: можно попросить материальную помощь.
+
