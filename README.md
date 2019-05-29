@@ -22,6 +22,7 @@
 * [Практическое задание 2](https://github.com/nadiinchi/iad2019/blob/master/materials/Homework2.ipynb). Мягкий дедлайн: 15 февраля, 23:59. Жесткий дедлайн: 20 февраля, 23:59.
 * [Практическое задание 3](https://github.com/nadiinchi/iad2019/blob/master/materials/homework3.ipynb). Мягкий дедлайн: 5 апреля, 23:59. Жесткий дедлайн: 9 апреля, 23:59.
 * [Практическое задание 4](https://github.com/nadiinchi/iad2019/blob/master/materials/homework4_compositions.ipynb). Мягкий дедлайн: 18 мая, 23:59. Жесткий дедлайн: 20 мая, 23:59. 
+* [Практическое задание 5](https://github.com/nadiinchi/iad2019/blob/master/materials/practice-homework-05.ipynb). Мягкий дедлайн: 12 июня 23:59. Жесткий дедлайн: 15 июня 23:59 (суббота!)
 
 ## Проверочные
 Раз в несколько семинаров проводится проверочная на знание материала лекций (и иногда семинаров).
@@ -89,6 +90,12 @@
 
 *Семинар 16.* Работа с текстами.
 * [Ноутбук с семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/seminar%20kaggle%20toxic.ipynb)
+
+*Семинар 17.* Рекомендательные системы.
+* См. презентацию с лекции
+* [Туториал 1: коллаборативная фильтрация в surprise](https://blog.cambridgespark.com/tutorial-practical-introduction-to-recommender-systems-dbe22848392b)
+* [Туториал 2: memory-based в pandas](https://www.kaggle.com/kanncaa1/recommendation-systems-tutorial)
+* [Туториал 3: разные системы](https://datasciencebeginners.com/2018/10/31/ultimate-guide-on-how-to-build-recommender-systems-with-case-study/)
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
