@@ -35,7 +35,7 @@
 
 *Семинар 2.* Pandas и Matplotlib.
 * [Данные о пассажирах «Титаника»](https://raw.githubusercontent.com/iad34/seminars/master/materials/data_sem1.csv)
-* [Ноутбук с семинара](https://github.com/iad-24/seminars/blob/master/materials/seminar_pandas.ipynb)
+* [Ноутбук с семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/Seminar%20Pandas.ipynb)
 * [Лекция на Курсере про pandas - 1](https://www.coursera.org/learn/mathematics-and-python/lecture/rcjAW/pandas-data-frame)
 * [Лекция на Курсере про pandas - 2](https://www.coursera.org/learn/mathematics-and-python/lecture/lsXAR/pandas-indieksatsiia-i-sieliektsiia)
 * [Подробный ноутбук-туториал про pandas](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar3_pandas.ipynb)
